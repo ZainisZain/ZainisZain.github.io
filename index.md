@@ -1,6 +1,5 @@
 # The ZAIN ZONE
 Alexey is tiny brain
-₳ⱠɆӾɆɎ ł₴ ฿ł₲ ฿Ɽ₳ł₦
 ## [Go to Alexey's site](https://simatalk.github.io)
 [simatalk.github.io](https://simatalk.github.io)
 
