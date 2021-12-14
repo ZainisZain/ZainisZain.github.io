@@ -1,5 +1,5 @@
 # The ZAIN ZONE
-Alexey is tiny brain
+and always remeber alexeys math doesnt make sense
 ## [Go to Alexey's site](https://simatalk.github.io)
 [simatalk.github.io](https://simatalk.github.io)
 
